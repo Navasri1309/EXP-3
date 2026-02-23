@@ -54,7 +54,7 @@ Cross connection: CIRCUIT DIAGRAM:
 <img width="1600" height="1035" alt="image" src="https://github.com/user-attachments/assets/7e4b6851-afa5-4c46-8081-885640e31931" />
 
 
-<img width="1294" height="874" alt="image" src="https://github.com/user-attachments/assets/27b240d2-003c-46f8-bbfe-16b6a3a9f49b" />
+<img width="1920" height="1140" alt="Screenshot 2026-02-23 115709" src="https://github.com/user-attachments/assets/b8c812e9-b1ab-402b-adf0-09925610b780" />
 
 
 Tabulation:2
