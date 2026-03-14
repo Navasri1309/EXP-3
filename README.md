@@ -40,8 +40,7 @@ switch2.
 
 
 Direct connection: CIRCUIT DIAGRAM: 
-
-![WhatsApp Image 2026-02-23 at 7 41 46 PM](https://github.com/user-attachments/assets/489a1b6b-c577-41fc-8f1f-bd4e5b2d6858)
+ 
 
 <img width="1920" height="1140" alt="Screenshot 2026-02-23 114918" src="https://github.com/user-attachments/assets/48dee043-1217-446e-b42d-b3824c8f423d" />
 
